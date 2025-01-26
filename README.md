@@ -1,6 +1,7 @@
 # Nayera Hasan
 
-![header]([https://github.com/user-attachments/assets/75ca872e-f3d6-4c7b-bcbc-17c5be2aa42d](https://pixabay.com/illustrations/binary-code-binary-binary-system-475664/))
+![Header](https://pixabay.com/get/g30adf2ac0da928dbecbb114f3dc01750ac34d0b1531ae9df58035dc4f16c515f9e96b59ec2d52e62c839070c850d734a_1280.jpg)
+
 
 ## 📮 Who is Nayera?
 
