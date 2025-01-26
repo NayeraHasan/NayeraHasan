@@ -1,5 +1,3 @@
-# Nayera Hasan
-
 ![Header](https://raw.githubusercontent.com/NayeraHasan/NayeraHasan/refs/heads/main/binary-code-475664_1280.webp)
 
 
