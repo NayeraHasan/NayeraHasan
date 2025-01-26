@@ -37,7 +37,8 @@ A junior computer science student with a passion for building intelligent system
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_Logo.png" height="40" alt="NLTK logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="NLTK (via Python) logo" />
+  <span>NLTK</span>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo" />
 </div>
