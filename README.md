@@ -5,7 +5,7 @@
 
 ## 📮 Who is Nayera?
 
-A junior computer science student with a passion for building intelligent systems, crafting robust full-stack applications, and diving deep into the world of AI-driven solutions. My experience spans across designing predictive models, optimizing databases, and deploying scalable applications.
+A junior computer science student with a passion for building intelligent systems, crafting robust full-stack applications, and diving deep into the world of  ML-driven solutions. My experience spans across designing predictive models, optimizing databases, and deploying scalable applications.
 
 ### Key Highlights:
 - **Education**: Computer Science major with minors in Statistics and Data Science at Haverford College (Class of 2026).
