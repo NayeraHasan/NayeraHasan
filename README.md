@@ -1,6 +1,6 @@
 # Nayera Hasan
 
-![header](https://github.com/user-attachments/assets/75ca872e-f3d6-4c7b-bcbc-17c5be2aa42d)
+![header]([https://github.com/user-attachments/assets/75ca872e-f3d6-4c7b-bcbc-17c5be2aa42d](https://pixabay.com/illustrations/binary-code-binary-binary-system-475664/))
 
 ## 📮 Who is Nayera?
 
@@ -16,12 +16,12 @@ A junior computer science student with a passion for building intelligent system
 
 ## 👔 Experience
 
-### 🔹 Machine Learning Fellow @ [Google & BTT](https://google.com)
+### 🔹 Machine Learning Fellow @ [Google & BTT]
 - Engineered a search query recommendation model to enhance user experience with predictive features.
 - Analyzed large-scale Google Trends data for feature extraction and training advanced AI models.
 - Built and optimized sequence models and collaborative filtering systems using TensorFlow and PyTorch.
 
-### 🔹 Full-Stack Development Intern @ [SEO](https://www.seo-usa.org)
+### 🔹 Full-Stack Development Intern @ [SEO]
 - Developed 3 responsive web applications, achieving 20% fewer security vulnerabilities.
 - Streamlined backend operations with RESTful APIs using Node.js, improving response times by 25%.
 - Automated testing pipelines with JUnit, cutting post-release defects by 35%.
