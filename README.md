@@ -1,6 +1,6 @@
 # Nayera Hasan
 
-![Header](https://pixabay.com/get/g30adf2ac0da928dbecbb114f3dc01750ac34d0b1531ae9df58035dc4f16c515f9e96b59ec2d52e62c839070c850d734a_1280.jpg)
+![Header](https://raw.githubusercontent.com/NayeraHasan/NayeraHasan/refs/heads/main/binary-code-475664_1280.webp)
 
 
 ## 📮 Who is Nayera?
