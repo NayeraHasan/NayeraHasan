@@ -54,7 +54,7 @@ A junior computer science student with a passion for building intelligent system
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvecta.io%2Fsymbols%2F28%2Fmicrosoft-azure-color%2F61%2Fsql-database-generic&psig=AOvVaw1Q_ZS2Q8vdIpKGajUTpFzc&ust=1738006058218000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCIsaCPlIsDFQAAAAAdAAAAABAE)" height="40" alt="sql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
