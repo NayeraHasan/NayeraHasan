@@ -10,7 +10,7 @@ A junior computer science student with a passion for building intelligent system
 ### Key Highlights:
 - **Education**: Computer Science major with minors in Statistics and Data Science at Haverford College (Class of 2026).
 - **Honors & Awards**: C.V. Starr Scholarship, AnitaB.org Advancing Inclusion Scholar, Google Africa Developer Scholar.
-- **Tech Expertise**: Python, TensorFlow, PyTorch, SQL, Node.js, React, Docker, and more.
+- **Tech Experience**: Python, TensorFlow, PyTorch, SQL, Node.js, React, Docker, and more.
 - **Passions** AI/ML, NLP, Full-Stack Development, API Design, and building impactful, scalable, and secure tech solutions.
 
 ---
