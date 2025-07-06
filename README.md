@@ -29,18 +29,16 @@ A junior computer science student with a passion for building intelligent system
 
 ---
 ## 🛠️ My ML Toolkit
-
-### 🤖 Machine Learning Frameworks
+<h3>🤖 Machine Learning Frameworks</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/512px-Tensorflow_logo.svg.png" width="40" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.png" width="40" alt="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" alt="PyTorch"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" alt="Scikit-learn"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" alt="OpenCV"/>
 </p>
 
-
-### 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40" alt="Java"/>
@@ -52,7 +50,7 @@ A junior computer science student with a passion for building intelligent system
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" alt="R"/>
 </p>
 
-### 📚 Libraries & Tools
+<h3>📚 Libraries & Tools</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" alt="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" alt="NumPy"/>
@@ -63,15 +61,15 @@ A junior computer science student with a passion for building intelligent system
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" width="40" alt="Google Cloud"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/SQLAlchemy_logo.svg" width="40" alt="SQLAlchemy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Google_Cloud_logo.svg/512px-Google_Cloud_logo.svg.png" width="40" alt="Google Cloud"/>
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="40" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="40" alt="Bash"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Sqlalchemy.svg" width="40" alt="SQLAlchemy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" alt="Jupyter"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" alt="Selenium"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Plotly-logo-01-square.png" width="40" alt="Plotly"/>
 </p>
----
+
 
 ## 💡 Fun Facts About Me
 
